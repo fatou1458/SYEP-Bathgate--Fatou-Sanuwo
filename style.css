@@ -20,7 +20,7 @@ body{
 }
 
 .hero h1{
-    font/size: 100px;px:
+    font-size: 100px;
 }
 
 .grid {
@@ -30,9 +30,10 @@ body{
 
 .grid div{
     background-color: rgb(188, 122, 250);
-}
-    padding: 20px;
+       padding: 20px;
     border-radius: 100px;
+}
+
     @media (max-width: 768px){
         .hero h1{font: size: 40px;}
         body{background-color: aliceblue;} 
